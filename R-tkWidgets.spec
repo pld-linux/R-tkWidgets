@@ -2,12 +2,12 @@
 
 Summary:	Widgets to provide user interfaces from bioconductor
 Name:		R-%{packname}
-Version:	1.36.0
+Version:	1.40.0
 Release:	1
 License:	Artistic 2.0
 Group:		X11/Applications
 Source0:	http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	17fce848671339e6b39416a04e9f1d85
+# Source0-md5:	add1b0a90e4203e43fc7dae67a541e3f
 URL:		http://bioconductor.org/packages/release/bioc/html/tkWidgets.html
 BuildRequires:	R
 BuildRequires:	R-DynDoc
