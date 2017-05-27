@@ -3,7 +3,7 @@
 Summary:	Widgets to provide user interfaces from bioconductor
 Name:		R-%{packname}
 Version:	1.40.0
-Release:	1
+Release:	2
 License:	Artistic 2.0
 Group:		X11/Applications
 Source0:	http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
